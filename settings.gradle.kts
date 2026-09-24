@@ -1,0 +1,1 @@
+rootProject.name = "CTAQ_TD2"
