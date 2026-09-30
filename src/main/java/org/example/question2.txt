@@ -1,0 +1,5 @@
+2) 
+JUnit est utilisé pour structurer et lancer des tests. 
+Hamcrest sert à écrire des assertions.
+Mockito sert pour simuler des dépendances. 
+JaCoCo sert à calculer la couverture de code des tests.

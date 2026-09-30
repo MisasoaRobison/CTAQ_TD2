@@ -1,0 +1,7 @@
+[ ] 1- Implémenter et tester la classe de base Gav (coordonnées) en TDD
+[ ] 2- Implémenter et tester InMemoryStorage pour l'interface IStorage
+[ ] 3- Implémenter et tester BufferedLineReader pour l'interface ILineReader
+[ ] 4- Implémenter et tester LineBasedPomParser pour l'interface IPomParser
+[ ] 5- Implémenter et tester StorageBasedRegistry pour l'interface IRegistry (avec non-republication)
+[ ] 6- Implémenter et tester AllVersionsResolver pour l'interface IResolver (fermeture transitive)
+[ ] 7- Implémenter et tester l'orchestrateur BuildTool
