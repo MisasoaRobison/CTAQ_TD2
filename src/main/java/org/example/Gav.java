@@ -6,6 +6,6 @@ public class Gav {
   }
 
   public String group(){
-    return "org.acme";
+    return "org.acme"; //on renvoie ici une valeur codée en dur
   }
 }
